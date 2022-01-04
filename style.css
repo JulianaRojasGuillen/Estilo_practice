@@ -1,0 +1,33 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+    margin:10px;
+}
+
+.mycloud{
+    color: white;
+    background-color: black;
+    padding: 10px; 
+    font-size:40px;
+    margin-bottom: 0;
+    }
+span{
+    color:aqua;
+}
+.completedProjects{
+    color: white;
+    background-color:rebeccapurple;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+    margin-bottom: 0;
+    margin-top:10px;
+}
+.contactUs{
+    color:black;
+    background-color:lightskyblue;
+    text-align: right;
+    text-decoration:underline;
+    font-family: 'Spline Sans', sans-serif;
+    padding: 10px;
+    margin-top:10px;
+}
